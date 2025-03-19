@@ -8,10 +8,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Emanuelle Barbosa Henrique
+- Matricula: 889049
+- Proposta de projeto escolhida: Catálogo de Filmes
+- Breve descrição sobre seu projeto: Escolhi o projeto de catálago de filmes, pois é um assunto que eu gosto e acho mais fácil de falar. Minha ideia foi colocar notícias, filmes no cinema, premiações, lançamentos em plataformas e sobre filmes em geral. Tudo organizado atraves de tela interligadas.
 
 
 ## Print do esboço criada
