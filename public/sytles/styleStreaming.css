@@ -1,0 +1,187 @@
+#titulo1{
+    position: absolute;
+    width: 10%;
+    height: 5%;
+    left: 45%;
+	top: 3%;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#titulo2{
+    position: absolute;
+    width: 10%;
+    height: 5%;
+    left: 45%;
+	top: 35%;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#titulo3{
+    position: absolute;
+    width: 10%;
+    height: 5%;
+    left: 45%;
+	top: 67%;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#filme1{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 3.5%;
+	top: 10%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme2{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 22.5%;
+	top: 10%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme3{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 41.5%;
+	top: 10%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme4{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 60.5%;
+	top: 10%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme5{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 79.5%;
+	top: 10%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+
+
+
+#filme6{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 3.5%;
+	top: 42%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme7{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 22.5%;
+	top: 42%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme8{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 41.5%;
+	top: 42%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme9{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 60.5%;
+	top: 42%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme10{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 79.5%;
+	top: 42%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+
+
+#filme11{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 3.5%;
+	top: 74%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme12{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 22.5%;
+	top: 74%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme13{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 41.5%;
+	top: 74%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme14{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 60.5%;
+	top: 74%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#filme15{
+    position: absolute;
+    width: 18%;
+    height: 22%;
+    left: 79.5%;
+	top: 74%;
+    border: 2px solid black;
+    text-align: center;
+}

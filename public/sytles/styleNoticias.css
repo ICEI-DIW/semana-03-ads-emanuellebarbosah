@@ -1,0 +1,23 @@
+h2 {
+    color: #222;
+    text-align: center;
+}
+
+
+p {
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+
+iframe {
+    width: 100%;
+    max-width: 914px;
+    height: 514px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+

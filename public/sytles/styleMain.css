@@ -1,0 +1,138 @@
+/* Fundo do corpo */
+#bodyFundo {
+    background-image: url("../imagem/fundoLoc.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Fundo geral */
+body {
+    background-color: black;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container principal */
+#fundo {
+    position: absolute;
+    width: 90%; /* Largura da div */
+    height: 190%; /* Altura da div */
+    left: 5%; /* Posição horizontal */
+    top: 1%; /* Posição vertical */
+    background-color: #977e6f; /* Cor de fundo */
+}
+
+/* Título */
+#titulo {
+    position: absolute;
+    width: 100%;
+    height: 7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #453b36;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/* Logo */
+#logo {
+    position: absolute;
+    width: 6%;
+    height: 95%;
+    left: 2%;
+}
+
+/* Barra de navegação */
+#barra {
+    position: absolute;
+    width: 95.8%;
+    height: 7%;
+    left: 1.5%;
+    top: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#453b36;
+    padding: 10px;
+}
+
+/* Menu lateral */
+#menu {
+    position: absolute;
+    width: 23.5%;
+    height: 40%;
+    left: 1.5%;
+	top: 17.5%;
+    background-color: #453b36;
+    padding: 10px;
+}
+
+#menu h3 {
+    margin: 10px 0;
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#menu a:hover {
+    color: white;
+}
+
+/* Conteúdo */
+#conteudo {
+    position: absolute;
+    width: 71%;
+    left: 27.5%;
+    height: 77%;
+    top: 17.5%;
+    background-color:#977e6f;
+}
+
+/* Login */
+#login {
+    position: absolute;
+    width: 23.5%;
+    height: 9%;
+    left: 1.5%;
+    top: 60%;
+    background-color: white;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+/* Botões */
+button {
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+}
+
+button:hover {
+    background-color: lightgray;
+}
+
+/* Input de pesquisa */
+#input {
+    height: 30px;
+    width: 55%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+

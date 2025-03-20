@@ -1,12 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Filmes</title>
+    <link rel = "stylesheet" href = "sytles/styleMain.css">
 </head>
-<body>
+
+<body id = "bodyFundo">
+
+    <div id = "fundo">
+
+        <div id = "titulo">
+            <h1>Catálogo de Filmes</h1>
+
+            <div id = "logo">
+                <img src = "imagem/logoFilmes.png" width = "100%"  height = "100%">
+            </div>
+
+        </div>
+
+        <div id = "barra">
+            <button name="button"><a href = "paginas/principal.html" target = "tela">Home</a></button>
+            <button name="button">login</button>
+
+            <input id = "input" type = "text" placeholder="Pesquise aqui">
+
+        </div>
+
+        <div id = "menu">
+            <h3> <a href = "paginas/filmesCinema.html" target = "tela">Filmes no cinema</a></h3>
+            <h3> <a href = "paginas/lancamentosPlataformas.html" target = "tela">Lançamentos nas plataformas</a></h3>
+            <h3> <a href = "paginas/noticias.html" target = "tela">Notícias</a></h3>
+            <h3> <a href = "paginas/premiacoes.html" target = "tela">Premiações</a></h3>
+        </div>
+
+        <div id = "conteudo">
+            <!-- iframe para chamar algo no caso a tela que foi renomeada no target-->
+		    <iframe name = "tela" width = "100%" height = "100%" frame border = "0" src = "paginas/principal.html" ></iframe>
+        </div>
+
+        <div id = "login">
+            <form action = "" method = "post">
+            <fieldset>
+            <legend>Login</legend>
+        
+            <table align "center">
+        
+                <tr>
+                    <td>Usuário: </td> <td> <input type = "text"  required> *</td>
+                </tr>
+                <tr>
+                    <td>Senha: </td> <td> <input type = "password"required> *</td>
+                </tr>
+                <tr>
+                    <td><input type = "submit" value = "Entrar"></td>
+                </tr>
+        
+            </table>
+            </fieldset>
+        
+            </form>
+        </div>
     
+
+
+    </div>    
+
 </body>
+
 </html>
