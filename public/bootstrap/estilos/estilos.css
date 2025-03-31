@@ -1,0 +1,76 @@
+
+.header{
+    background-color: #977e6f;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.header_area{
+    padding: 20px;
+}
+
+.memu_area{
+    margin-top: 30px;
+}
+
+.memu_area nav a{
+    background-color: #977e6f;
+    color:white;
+    margin-bottom: 10px;
+}
+
+.memu_area nav a:hover{
+    background-color: #977e6f;
+}
+
+
+.active{
+    background-color: #453b36 !important;
+}
+
+.logo{
+    width: 150px;
+}
+
+.main{
+    
+}
+
+.main .card{
+    margin-bottom: 15px;
+}
+
+.main_area{
+    margin-bottom: 20px;
+}
+
+.footer{
+    margin-top: 10px;
+    background: #977e6f;
+    color: white;
+}
+.footer_area{
+    padding: 20px;
+    text-align: center  ;
+    background-color: #977e6f;
+}
+
+.modal-body img{ width: 100%;}
+
+.memu_area2{
+    margin-top: 30px;
+}
+
+.memu_area2 nav a{
+    background-color: #453b36;
+    color:white;
+    margin-bottom: 10px;
+}
+
+.memu_area2 nav a:hover{
+    background-color: #453b36;
+}
+
+body{
+    background-color: black;
+}
