@@ -22,3 +22,13 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print da home-page criada
 
 ![homePage](homePage.png)
+
+
+## Print da home-page css puro
+
+![homePage](cssPuro.png)
+
+## Print da home-page bootstrap
+
+![homePage](bootstrap1.png)
+![homePage](bootstrap2.png)

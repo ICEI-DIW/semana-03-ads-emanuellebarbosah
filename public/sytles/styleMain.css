@@ -155,7 +155,7 @@ button:hover {
     /* Título */
     #titulo {
         position: absolute;
-        width: 90%;
+        width: 97%;
         height: 7%;
         display: flex;
         justify-content: center;
