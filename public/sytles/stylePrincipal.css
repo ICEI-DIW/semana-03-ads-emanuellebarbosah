@@ -53,3 +53,42 @@
         }
 
 
+        .carrossel-container {
+            margin: 20px auto;
+            width: 600px;  /* Tamanho padrão */
+            max-width: 100%; /* Garante que não ultrapasse a tela */
+            overflow: hidden;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+        
+        .carrossel {
+            display: flex;
+            width: 500%;
+            animation: slide 10s infinite linear;
+        }
+        
+        .carrossel img {
+            width: 100%; /* Agora ajusta automaticamente */
+            height: 400px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+        
+     
+        
+        /* Responsividade para celulares menores que 400px */
+        @media (max-width: 400px) {
+            .carrossel-container {
+                width: 100%; /* Ocupa toda a largura da tela */
+            }
+        
+            .carrossel img {
+                height: 200px; /* Ajusta altura para manter equilíbrio */
+            }
+        }
+        
+       
+        
+
+
